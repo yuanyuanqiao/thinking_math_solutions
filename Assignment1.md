@@ -1,7 +1,7 @@
 # Introductory material assignments' solutions
 1.
 * The woman with a telescope was seen by the man.
-* The man used a telescope to see the woman.
+* The man with a telescope see the woman.
 
 2.
 * Sisters reunited in checkout line at Safeway, after ten years. (separation)
